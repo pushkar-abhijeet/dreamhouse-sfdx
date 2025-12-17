@@ -1,6 +1,6 @@
 # DreamHouse Aura Sample Application
 
-> **⚠️ IMPORTANT ⚠️ :** This is the Aura version of the DreamHouse sample application. This version is deprecated and has been archived since 2019. If you are looking for the new Lightning Web Components version, click [here](https://github.com/dreamhouseapp/dreamhouse-lwc).
+> **⚠️ IMPORTANT ⚠️ :** This is the Aura version of the DreamHouse sample application. This version is deprecated and has been archived since 2019. If you are looking for the new Lightning Web Components version, click [here](https://github.com/trailheadapps/dreamhouse-lwc).
 
 ![dreamhouse-logo](dreamhouse-logo.png)
 
@@ -30,7 +30,7 @@ This is the recommended installation option for developers who want to experienc
 1. Clone the **dreamhouse-sfdx** repository:
 
     ```
-    git clone https://github.com/dreamhouseapp/dreamhouse-sfdx
+    git clone https://github.com/trailheadapps/dreamhouse-sfdx
     cd dreamhouse-sfdx
     ```
 
